@@ -11,7 +11,9 @@
 66 Boulevard Gambetta
 38000 Grenoble
 France
+SIREN: 994 657 328
 SIRET: 994 657 328 00013
+TVA (France): FR87 994657328
 TVA Intracommunautaire: FR3801.994657328
 Code NAF: 5829C (Edition de logiciels applicatifs)
 email: cedric@4pi.tech
