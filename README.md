@@ -11,7 +11,7 @@
 12 Rue de la Part Dieu, 69003 Lyon
 France
 SIREN: 994 657 328
-SIRET: 994 657 328 00013
+SIRET: 994 657 328 00021
 TVA (France): FR87 994657328
 TVA Intracommunautaire: FR6901.994657328
 Code NAF: 5829C (Edition de logiciels applicatifs)
