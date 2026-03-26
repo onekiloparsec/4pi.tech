@@ -12,8 +12,7 @@
 France
 SIREN: 994 657 328
 SIRET: 994 657 328 00021
-TVA (France): FR87 994657328
-TVA Intracommunautaire: FR6901.994657328
+TVA (VAT): FR87994657328
 Code NAF: 5829C (Edition de logiciels applicatifs)
 email: cedric@4pi.tech
 ```
